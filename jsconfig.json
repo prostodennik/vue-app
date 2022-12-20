@@ -5,8 +5,8 @@
     "baseUrl": "./",
     "moduleResolution": "node",
     "paths": {
-      "/": [
-        "/vue-app/*"
+      "@/*": [
+        "src/*"
       ]
     },
     "lib": [
