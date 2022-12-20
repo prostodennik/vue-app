@@ -1,4 +1,4 @@
-# nbki
+# project
 
 ## Project setup
 ```
